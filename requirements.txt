@@ -1,8 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
 streamlit
-sklearn
+Pillow
 fuzzywuzzy
 distance
-bs4
+# bs4
+# python-3.11.9
+
 python
-streamlit
-scikit-learn
+beautifulsoup4
