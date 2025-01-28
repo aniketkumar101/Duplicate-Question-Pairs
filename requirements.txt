@@ -6,8 +6,5 @@ streamlit
 Pillow
 fuzzywuzzy
 distance
-# bs4
-# python-3.11.9
-
-python
+python-3.11.9
 beautifulsoup4
