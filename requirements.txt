@@ -3,4 +3,6 @@ sklearn
 fuzzywuzzy
 distance
 bs4
-python==3.11
+python
+streamlit
+scikit-learn
