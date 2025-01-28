@@ -8,7 +8,6 @@ import numpy as np
 
 cv = pickle.load(open('cv.pkl','rb'))
 
-
 def test_common_words(q1,q2):
     w1 = set(map(lambda word: word.lower().strip(), q1.split(" ")))
     w2 = set(map(lambda word: word.lower().strip(), q2.split(" ")))

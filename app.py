@@ -14,8 +14,8 @@ if st.button('Find'):
     result = model.predict(query)[0]
 
     if result:
-        st.header('Duplicate Question')
+        st.header('Duplicate')
     else:
-        st.header('Not Duplicate Question')
+        st.header('Not Duplicate')
 
 
