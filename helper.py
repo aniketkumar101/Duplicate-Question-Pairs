@@ -5,6 +5,7 @@ from fuzzywuzzy import fuzz
 import pickle
 import numpy as np
 
+
 cv = pickle.load(open('cv.pkl','rb'))
 
 
