@@ -6,5 +6,4 @@ streamlit==1.33.0
 Pillow
 fuzzywuzzy
 distance
-python-3.11.9
 beautifulsoup4
